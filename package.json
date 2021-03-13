@@ -1,8 +1,8 @@
 {
-  "name": "doc-api-template",
+  "name": "doc-api-boilerplate",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/ViniciusCrisol/doc-api-template.git",
+  "repository": "https://github.com/ViniciusCrisol/doc-api-boilerplate.git",
   "license": "MIT",
   "scripts": {
     "start": "node -r sucrase/register src/app.js"
